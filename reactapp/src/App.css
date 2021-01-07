@@ -1,0 +1,96 @@
+
+#signInUp{
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+
+}
+.nameInputsignInUp{
+  color: #b872f2;
+}
+.titleSignInUp{
+  color: #65378a;
+  
+}
+.buttonSignInUp{
+  width:200px;
+  margin-left:20px;
+  margin-bottom: 20px;
+}
+
+#HomeScreen{
+  margin-top:20px;
+  margin-left: 10vh;
+  margin-right: 10vh;
+}
+#allnavbar{
+  background-color: #b872f2;
+}
+#imgNav{
+  width: 100px;
+  height: 100px;
+}
+.linkNav{
+  color:#65378a
+}
+.inputSell{
+  margin-bottom: 20px;
+}
+
+#sellScreen{
+  margin-top: 25px;
+  margin-left: 30vh;
+  margin-right: 30vh;
+  
+}
+
+#productScreen{
+
+    /* Fixe l'image en haut à gauche de la page */
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+    /* Préserve le ratio de l'image */
+    min-width: 100%;
+    min-height: 100%;
+   
+   
+}
+  #container {
+    margin-top: 5
+  }
+.titleRow {
+
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30vh;
+    color: #65378a;
+  }
+.buttonRow {
+    flex-direction: 'row';
+    justify-content: 'space-around';
+    margin-left: 30vh;
+   
+  }
+.buttonFilter{
+  width:200px;
+  margin-left:20px;
+  margin-bottom: 20px;
+}
+.inputRow{
+  margin-left: 30vh;
+  margin-right: 40vh;
+}
+.buttonSearch{
+  margin-left: 45vh;
+}
+#information{
+  margin-top:20px;
+  margin-left:20px;
+  margin-right:20px
+}
+
+
+
+
+
